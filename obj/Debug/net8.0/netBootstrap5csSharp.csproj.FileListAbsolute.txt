@@ -28,3 +28,4 @@ C:\ProjetosPessoais\bootMVC\netBootstrap5csSharp\obj\Debug\net8.0\refint\netBoot
 C:\ProjetosPessoais\bootMVC\netBootstrap5csSharp\obj\Debug\net8.0\netBootstrap5csSharp.pdb
 C:\ProjetosPessoais\bootMVC\netBootstrap5csSharp\obj\Debug\net8.0\netBootstrap5csSharp.genruntimeconfig.cache
 C:\ProjetosPessoais\bootMVC\netBootstrap5csSharp\obj\Debug\net8.0\ref\netBootstrap5csSharp.dll
+C:\ProjetosPessoais\bootMVC\netBootstrap5csSharp\obj\Debug\net8.0\netBootstrap5csSharp.sourcelink.json
