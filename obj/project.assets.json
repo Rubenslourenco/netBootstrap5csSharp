@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rubens.a.lourenco\\.nuget\\packages\\": {},
+    "C:\\Users\\Delicius\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosPessoais\\bootMVC\\netBootstrap5csSharp\\netBootstrap5csSharp.csproj",
+      "projectUniqueName": "D:\\netBootstrap5csSharp\\netBootstrap5csSharp.csproj",
       "projectName": "netBootstrap5csSharp",
-      "projectPath": "C:\\ProjetosPessoais\\bootMVC\\netBootstrap5csSharp\\netBootstrap5csSharp.csproj",
-      "packagesPath": "C:\\Users\\rubens.a.lourenco\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosPessoais\\bootMVC\\netBootstrap5csSharp\\obj\\",
+      "projectPath": "D:\\netBootstrap5csSharp\\netBootstrap5csSharp.csproj",
+      "packagesPath": "C:\\Users\\Delicius\\.nuget\\packages\\",
+      "outputPath": "D:\\netBootstrap5csSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rubens.a.lourenco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Delicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
